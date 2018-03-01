@@ -1,0 +1,10 @@
+{
+  "name": "khanacademy-dl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aleksandr Gornostal <al.gornostal@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nightmare": "^2.10.0"
+  }
+}
